@@ -1,4 +1,4 @@
-# Layout Academia
+# Layout Spotify
 ![preview](./imagens/screan.png)
 
 Projeto construido inspirado em um layout do spotify. Rensponsivo.
